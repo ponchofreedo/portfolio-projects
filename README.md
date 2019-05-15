@@ -4,6 +4,7 @@ This repo is a collection of projects that I have compiled into a portfolio. It'
 Please use the directory below to see projects that I've completed and contributed to through my time at priceline.com and Tentrr. There are also (hopefully) a couple of smaller more OSS-type projects that will be listed here as well. I want to give back to the design community since it has been a huge part of my continued growth in this field, so I try to commit and comment where I feel it is right. As long as we have design discussions, we will keep creating new design solutions.
 
 # Directory
-## Tentrr design system
+
+#### Tentrr design system
 Creating a baseline for product design at Tentrr.
 https://sketch.cloud/s/4EOwz
