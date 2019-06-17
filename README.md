@@ -7,4 +7,5 @@ Please use the directory below to see projects that I've completed and contribut
 
 #### Tentrr design system
 Creating a baseline for product design at Tentrr.
-https://sketch.cloud/s/4EOwz
+* [Read more](/tentrr-design-system/)
+* [Sketch docs](https://sketch.cloud/s/4EOwz)
