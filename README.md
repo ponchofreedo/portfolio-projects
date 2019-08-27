@@ -5,7 +5,11 @@ Please use the directory below to see projects that I've completed and contribut
 
 # Directory
 
-#### Tentrr design system
+#### Tentrr design system - WIP
 Creating a baseline for product design at Tentrr.
 * [Read more](/tentrr-design-system/)
 * [Sketch docs](https://sketch.cloud/s/4EOwz)
+
+#### Discovery Search - WIP
+Changing the way we think about search at Tentrr.
+* [Read more](https://docs.google.com/document/d/13xBF7g17F8bIhZLGIATJhMqWLIay6zgKlaoc3K65w4o)
