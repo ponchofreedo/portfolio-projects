@@ -28,3 +28,8 @@ A new feature to help boost trustability (and conversion) for our hosts.
 #### Checkout - WIP
 Streamlining the checkout process for our campers.
 * [Read more](https://docs.google.com/document/d/1VGbXX1b-zJ6tyaWq51kKqvS82FzihlS4bJO_F4832g0/)
+
+
+#### Restaurant booking cross-sell
+Partnered with OpenTable to create a feature for offering restaurant reservations in ~20 major cities...in your inbox. First integration and proof of concept with them at priceline.com.
+* [Read more](.)
