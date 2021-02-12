@@ -34,7 +34,7 @@ Streamlining the checkout process for our campers.
 
 #### Restaurant booking cross-sell
 Partnered with OpenTable to create a feature for offering restaurant reservations in ~20 major cities...in your inbox. First integration and proof of concept with them at priceline.com.
-* [Read more](/projects/opentable/)
+* [Read more](/projects/priceline/opentable/)
 
 #### Email design system
 Boilerplate design guidelines for all email at priceline.com.
