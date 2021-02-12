@@ -44,3 +44,10 @@ Boilerplate design guidelines for all email at priceline.com.
 
 #### Fairway Mortgage
 Internal mobile app to unlock sales potential for mortgage agents. Link to Figma doc coming soon.
+
+## Side projects / fun things
+
+#### MunchMadness @ Tentrr
+We had an annual tradition of picking 16-32 dumpling houses/offerings up against eachother in a March Madness-style bracket. It was in the name of having fun and doing some team building (also eating a lot of really good dumplings), but also to put some free social content up for local Chinatown businesses that we picked.
+
+* [See the posters](/projects/fun/munchmadness/)
