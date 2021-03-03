@@ -19,16 +19,13 @@ Creating a baseline for product design at Tentrr.
 * [Read more](https://docs.google.com/document/d/1WkaIIZUycVmb_0t9IgZs3vDtXLt2_VkJFjkYjbXGgpk/)
 
 #### Campsite details - WIP
-My current focus: creating a more robust and relevant listing page for campsites.
-* [Read more](https://docs.google.com/document/d/1ShY17M8f_SnBNVdASSIl-7LHU3WzN_6FucutotsT1mY/)
+Creating a more robust and relevant listing page for campsites.
 
-#### Host endorsements - WIP
-A new feature to help boost trustability (and conversion) for our hosts.
-* [Read more](https://docs.google.com/document/d/1Sl_XifmyLeS9QdSB8N1tYIWnKutQ_p0kT8a8iVnziiA/)
+## Freelance
 
-#### Checkout - WIP
-Streamlining the checkout process for our campers.
-* [Read more](https://docs.google.com/document/d/1VGbXX1b-zJ6tyaWq51kKqvS82FzihlS4bJO_F4832g0/)
+#### Fairway Mortgage
+Internal mobile app to unlock sales potential for mortgage agents.
+* [View project](https://www.figma.com/file/kzEOjNdnIto3yY8jUj7OnF/Mobile-app-latest?node-id=4%3A64)
 
 ## Priceline
 
@@ -39,11 +36,6 @@ Partnered with OpenTable to create a feature for offering restaurant reservation
 #### Email design system
 Boilerplate design guidelines for all email at priceline.com.
 * [View project](https://www.behance.net/gallery/61502597/Email-Design-System)
-
-## Freelance
-
-#### Fairway Mortgage
-Internal mobile app to unlock sales potential for mortgage agents. Link to Figma doc coming soon.
 
 ## Side projects / fun things
 
