@@ -15,7 +15,7 @@ Model changes and improving experiences revolving around subscription and consen
 #### Rapid wireframing kit
 Partnered with a fellow designer to fix a velocity issue in our design process at Klaviyo.
 
-
+<br></br>
 
 ### Negotiatus
 Please send an email to zach.freed@gmail.com for these projects.
