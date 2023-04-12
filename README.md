@@ -24,8 +24,8 @@ Creating a more robust and relevant listing page for campsites.
 ## Freelance
 
 #### Fairway Mortgage
-Internal mobile app to unlock sales potential for mortgage agents.
-* [View project](https://www.figma.com/file/kzEOjNdnIto3yY8jUj7OnF/Mobile-app-latest?node-id=4%3A64)
+Internal mobile app to unlock sales potential for mortgage agents. Contact for password.
+* [View project](https://www.figma.com/file/kzEOjNdnIto3yY8jUj7OnF/Leads-%E2%80%93-Mobile-app-(ALPHA%2C-P1)?node-id=58%3A2&t=hd4KAjka96ynYct3-1)
 
 ## Priceline
 
