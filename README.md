@@ -15,12 +15,13 @@ Model changes and improving experiences revolving around subscription and consen
 #### Rapid wireframing kit
 Partnered with a fellow designer to fix a velocity issue in our design process at Klaviyo.
 
-<br>
-<br>
+
+
 ### Negotiatus
 Please send an email to zach.freed@gmail.com for these projects.
-<br>
-<br>
+
+
+
 ### Tentrr
 #### Discovery Search
 Changing the way we think about search at Tentrr.
@@ -31,14 +32,16 @@ Creating a baseline for product design at Tentrr.
 
 #### Campsite details - WIP
 Creating a more robust and relevant listing page for campsites.
-<br>
-<br>
+
+
+
 ### Freelance
 #### Fairway Mortgage
 Internal mobile app to unlock sales potential for mortgage agents. Contact for password.
 * [View project](https://www.figma.com/file/kzEOjNdnIto3yY8jUj7OnF/Leads-%E2%80%93-Mobile-app-(ALPHA%2C-P1)?node-id=58%3A2&t=hd4KAjka96ynYct3-1)
-<br>
-<br>
+
+
+
 ### Priceline
 #### Restaurant booking cross-sell
 Partnered with OpenTable to create a feature for offering restaurant reservations in ~20 major cities...in your inbox. First integration and proof of concept with them at priceline.com.
@@ -47,8 +50,9 @@ Partnered with OpenTable to create a feature for offering restaurant reservation
 #### Email design system
 Boilerplate design guidelines for all email at priceline.com.
 * [View project](https://www.behance.net/gallery/61502597/Email-Design-System)
-<br>
-<br>
+
+
+
 ### Side projects / fun things
 #### MunchMadness @ Tentrr
 We had an annual tradition of picking 16-32 dumpling houses/offerings up against eachother in a March Madness-style bracket. It was in the name of having fun and doing some team building (also eating a lot of really good dumplings), but also to put some free social content up for local Chinatown businesses that we picked.
