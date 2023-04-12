@@ -9,7 +9,7 @@ Please use the directory below to see projects that I've completed and contribut
 #### Individual profile view
 Rebuilding the most core customer data view in the Klaviyo app.
 
-#### Subscription and consent management - WIP (available after 4/15/2023)
+#### Subscription and consent management
 Model changes and improving experiences revolving around subscription and consent statuses.
 
 #### Rapid wireframing kit
