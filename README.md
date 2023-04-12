@@ -5,30 +5,36 @@ Please use the directory below to see projects that I've completed and contribut
 
 # Directory
 
+## Klaviyo - WIP (available after 4/15/2023)
+#### Individual profile view
+Rebuilding the most core customer data view in the Klaviyo app.
+
+#### Subscription and consent management - WIP (available after 4/15/2023)
+Model changes and improving experiences revolving around subscription and consent statuses.
+
+#### Rapid wireframing kit
+Partnered with a fellow designer to fix a velocity issue in our design process at Klaviyo.
+
 ## Negotiatus
 Please send an email to zach.freed@gmail.com for these projects.
 
 ## Tentrr
-
 #### Discovery Search
 Changing the way we think about search at Tentrr.
 * [Read more](https://docs.google.com/document/d/13xBF7g17F8bIhZLGIATJhMqWLIay6zgKlaoc3K65w4o/)
 
 #### Saguaro, design systems initiative - WIP
 Creating a baseline for product design at Tentrr.
-* [Read more](https://docs.google.com/document/d/1WkaIIZUycVmb_0t9IgZs3vDtXLt2_VkJFjkYjbXGgpk/)
 
 #### Campsite details - WIP
 Creating a more robust and relevant listing page for campsites.
 
 ## Freelance
-
 #### Fairway Mortgage
 Internal mobile app to unlock sales potential for mortgage agents. Contact for password.
 * [View project](https://www.figma.com/file/kzEOjNdnIto3yY8jUj7OnF/Leads-%E2%80%93-Mobile-app-(ALPHA%2C-P1)?node-id=58%3A2&t=hd4KAjka96ynYct3-1)
 
 ## Priceline
-
 #### Restaurant booking cross-sell
 Partnered with OpenTable to create a feature for offering restaurant reservations in ~20 major cities...in your inbox. First integration and proof of concept with them at priceline.com.
 * [Read more](/projects/priceline/opentable/)
@@ -38,7 +44,6 @@ Boilerplate design guidelines for all email at priceline.com.
 * [View project](https://www.behance.net/gallery/61502597/Email-Design-System)
 
 ## Side projects / fun things
-
 #### MunchMadness @ Tentrr
 We had an annual tradition of picking 16-32 dumpling houses/offerings up against eachother in a March Madness-style bracket. It was in the name of having fun and doing some team building (also eating a lot of really good dumplings), but also to put some free social content up for local Chinatown businesses that we picked.
 
