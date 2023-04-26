@@ -24,7 +24,7 @@ Partnered with a fellow designer to fix a velocity issue in our design process a
 <br></br>
 
 ### Order
-Please send an email to zach.freed@gmail.com for these projects.
+Please contact zach.freed@gmail.com to discuss work from Order.
 
 <br></br>
 
