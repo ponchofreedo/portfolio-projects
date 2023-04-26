@@ -6,14 +6,20 @@ Please use the directory below to see projects that I've completed and contribut
 ## Directory
 
 ### Klaviyo - WIP (available after 4/15/2023)
+###### Password: porunga
 #### Individual profile view
 Rebuilding the most core customer data view in the Klaviyo app.
+* [View case study]()
+* [View Figma prototype](https://www.figma.com/file/wCWuyQcs22BSVmQX0PTOMZ/Profiles-_-Individual-Profile-Page-_-Q4.22-_-Main?node-id=581-317265)
+* [View Figma wireframes](https://www.figma.com/file/wCWuyQcs22BSVmQX0PTOMZ/Profiles-_-Individual-Profile-Page-_-Q4.22-_-Main?t=OPZXSnwzOstgek34-1)
 
 #### Subscription and consent management
 Model changes and improving experiences revolving around subscription and consent statuses.
+* [View feature announcement](https://www.klaviyo.com/product/whats-new/profile-consent)
 
 #### Rapid wireframing kit
 Partnered with a fellow designer to fix a velocity issue in our design process at Klaviyo.
+* [View in Figma](https://www.figma.com/file/LTZAlPDZPCGeg1N1ZVyZEg/Rapid-Wireframing-Kit-v1.2.2?t=OPZXSnwzOstgek34-6)
 
 <br></br>
 
