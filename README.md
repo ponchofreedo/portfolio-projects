@@ -16,6 +16,7 @@ Rebuilding the most core customer data view in the Klaviyo app.
 #### Subscription and consent management
 Model changes and improving experiences revolving around subscription and consent statuses.
 * [View feature announcement](https://www.klaviyo.com/product/whats-new/profile-consent)
+* [View Figma wireframes](https://www.figma.com/file/Gg1gni2IWDPrlU89bPmlUm/09082022---copy-from-broken-file?t=OPZXSnwzOstgek34-1)
 
 #### Rapid wireframing kit
 Partnered with a fellow designer to fix a velocity issue in our design process at Klaviyo.
