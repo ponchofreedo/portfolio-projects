@@ -9,7 +9,6 @@ Please use the directory below to see projects that I've completed and contribut
 ###### Password: porunga
 #### Individual profile view
 Rebuilding the most core customer data view in the Klaviyo app.
-* [View case study]()
 * [View Figma prototype](https://www.figma.com/file/wCWuyQcs22BSVmQX0PTOMZ/Profiles-_-Individual-Profile-Page-_-Q4.22-_-Main?node-id=581-317265)
 * [View Figma wireframes](https://www.figma.com/file/wCWuyQcs22BSVmQX0PTOMZ/Profiles-_-Individual-Profile-Page-_-Q4.22-_-Main?t=OPZXSnwzOstgek34-1)
 
