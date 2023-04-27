@@ -5,7 +5,7 @@ Please use the directory below to see projects that I've completed and contribut
 
 ## Directory
 
-### Klaviyo - WIP (available after 4/15/2023)
+### Klaviyo
 ###### Password: porunga
 #### Individual profile view
 Rebuilding the most core customer data view in the Klaviyo app.
