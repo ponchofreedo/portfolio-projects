@@ -12,13 +12,18 @@ Please use the directory below to see projects that I've completed and contribut
 ###### Contact for password.
 #### Individual profile view
 Rebuilding the most core customer data view in the Klaviyo app.
-* [View Figma prototype](https://www.figma.com/file/wCWuyQcs22BSVmQX0PTOMZ/Profiles-_-Individual-Profile-Page-_-Q4.22-_-Main?node-id=581-317265)
-* [View Figma wireframes](https://www.figma.com/file/wCWuyQcs22BSVmQX0PTOMZ/Profiles-_-Individual-Profile-Page-_-Q4.22-_-Main?t=OPZXSnwzOstgek34-1)
+* [View Figma prototype](https://www.figma.com/proto/wCWuyQcs22BSVmQX0PTOMZ/Profiles-%E2%80%94-Individual-Profile-Page?page-id=581%3A317265&node-id=593-373547&viewport=453%2C374%2C0.06&t=LW5VlD9eURNOj2xY-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=593%3A373547&show-proto-sidebar=1)
+* [View Figma wireframes](https://www.figma.com/design/wCWuyQcs22BSVmQX0PTOMZ/Profiles-%E2%80%94-Individual-Profile-Page?node-id=111-425317&t=DEOiMLTaJ6FSExZZ-1)
 
 #### Subscription and consent management
 Model changes and improving experiences revolving around subscription and consent statuses.
 * [View feature announcement](https://www.klaviyo.com/product/whats-new/profile-consent)
-* [View Figma wireframes](https://www.figma.com/file/Gg1gni2IWDPrlU89bPmlUm/09082022---copy-from-broken-file?t=OPZXSnwzOstgek34-1)
+* [View Figma wireframes](https://www.figma.com/design/FMKiiZN9EOCx1QmFj2HKVS/SCM-%E2%80%94-Channel-Box-Updates?m=auto&t=7AbEg5ZLBCXIM6g6-1)
+
+#### Shopify data syncing
+Providing a way for users to be able to selectively sync custom properties back and forth with their Shopify store.
+* [View Figma wireframes](https://www.figma.com/design/dzD2oLCo3XiPmyqYmIfwQe/PPM-%E2%80%94-Integrations-%E2%80%94-Shopify-Data-Sync?node-id=7574-612358)
+
 
 #### Rapid wireframing kit
 Partnered with a fellow designer to fix a velocity issue in our design process at Klaviyo.
