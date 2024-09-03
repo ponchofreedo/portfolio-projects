@@ -27,6 +27,14 @@ Rethinking the workflow for creating properties in HubSpot's CRM and preparing f
 A new property type that has been a long time in the making
 (coming soon)
 
+#### Datetime properties
+Exposing an existing property type that previously was only usable via API
+(coming soon)
+
+#### Design document markup components
+A pet project that got absorbed into the new design systems effort at HubSpot to create some consistency in how we organize our work on a 200+ designer team
+(coming soon)
+
 <br><br>
 
 ### Klaviyo
@@ -44,7 +52,6 @@ Model changes and improving experiences revolving around subscription and consen
 #### Shopify data syncing
 Providing a way for users to be able to selectively sync custom properties back and forth with their Shopify store.
 * [View Figma wireframes](https://www.figma.com/design/dzD2oLCo3XiPmyqYmIfwQe/PPM-%E2%80%94-Integrations-%E2%80%94-Shopify-Data-Sync?node-id=7574-612365&t=ZqeBaLzzw1vrz6T5-11)
-
 
 #### Rapid wireframing kit
 Partnered with a fellow designer to fix a velocity issue in our design process at Klaviyo.
