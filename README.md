@@ -7,37 +7,38 @@ Please use the directory below to see projects that I've completed and contribut
 
 ### HubSpot
 ###### This work is under an NDA. Please contact for access.
+
 #### Formula editor for calculated properties
 New experience for building more powerful and customized calculated properties
-(coming soon)
-
-#### Improving property cleanup tooling
-Updating neglected experiences to save admins hours, even days, of redundant stress
-* [View case study](https://www.figma.com/proto/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?page-id=0%3A1&node-id=6-322&viewport=2205%2C-1952%2C0.2&t=kYiG286hzC02UOqR-9&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A322&show-proto-sidebar=1)
-
-#### Simplifying property creation for non-admin users
-Creating a simplified experience for those creating properties outside of admin spaces
-* [View case study](https://www.figma.com/proto/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?page-id=0%3A1&node-id=9-983&viewport=2205%2C-1952%2C0.2&t=kYiG286hzC02UOqR-9&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=9%3A983&show-proto-sidebar=1)
+- (coming soon)
 
 #### Building confidence in calculated properties
-Enhancement for the new formula editor to help retain customers and build their confidence in a newer feature
-* [View case study](https://www.figma.com/design/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?node-id=411-11843&t=IJ3ZGhBidgpEDynH-1)
+- Enhancement for the new formula editor to help retain customers and build their confidence in a newer feature
+- [View case study](https://www.figma.com/design/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?node-id=411-11843&t=IJ3ZGhBidgpEDynH-1)
+
+#### Simplifying property creation for non-admin users
+- Creating a simplified experience for those creating properties outside of admin spaces
+- [View case study](https://www.figma.com/proto/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?page-id=0%3A1&node-id=9-983&viewport=2205%2C-1952%2C0.2&t=kYiG286hzC02UOqR-9&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=9%3A983&show-proto-sidebar=1)
+
+#### Improving property cleanup tooling
+- Updating neglected experiences to save admins hours, even days, of redundant stress
+- [View case study](https://www.figma.com/proto/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?page-id=0%3A1&node-id=6-322&viewport=2205%2C-1952%2C0.2&t=kYiG286hzC02UOqR-9&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A322&show-proto-sidebar=1)
 
 #### New property creation experience
-Rethinking the workflow for creating properties in HubSpot's CRM and preparing for a more flexible and scalable future
-(coming soon)
+- Rethinking the workflow for creating properties in HubSpot's CRM and preparing for a more flexible and scalable future
+- (coming soon)
 
 #### Sync properties
-A new property type that has been a long time in the making
-(coming soon)
+- A new property type that has been a long time in the making
+- (coming soon)
 
 #### Datetime properties
-Exposing an existing property type that previously was only usable via API
-(coming soon)
+- Exposing an existing property type that previously was only usable via API
+- (coming soon)
 
 #### Design document markup components
-A pet project that got absorbed into the new design systems effort at HubSpot to create some consistency in how we organize our work on a 200+ designer team
-(coming soon)
+- A pet project that got absorbed into the new design systems effort at HubSpot to create some consistency in how we organize our work on a 200+ designer team
+- (coming soon)
 
 <br><br>
 
