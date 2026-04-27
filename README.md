@@ -19,6 +19,10 @@ Updating neglected experiences to save admins hours, even days, of redundant str
 Creating a simplified experience for those creating properties outside of admin spaces
 * [View case study](https://www.figma.com/proto/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?page-id=0%3A1&node-id=9-983&viewport=2205%2C-1952%2C0.2&t=kYiG286hzC02UOqR-9&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=9%3A983&show-proto-sidebar=1)
 
+#### Building confidence in calculated properties
+Enhancement for the new formula editor to help retain customers and build their confidence in a newer feature
+* [View case study](https://www.figma.com/design/akeNpaDhaOsUj9GP6OQ86b/Case-Studies?node-id=411-11843&t=IJ3ZGhBidgpEDynH-1)
+
 #### New property creation experience
 Rethinking the workflow for creating properties in HubSpot's CRM and preparing for a more flexible and scalable future
 (coming soon)
