@@ -43,7 +43,6 @@ New experience for building more powerful and customized calculated properties
 <br><br>
 
 ### Klaviyo
-###### Contact for password.
 #### Individual profile view
 Rebuilding the most core customer data view in the Klaviyo app.
 * [View Figma prototype](https://www.figma.com/proto/wCWuyQcs22BSVmQX0PTOMZ/Profiles-%E2%80%94-Individual-Profile-Page?page-id=581%3A317265&node-id=593-373547&viewport=453%2C374%2C0.06&t=LW5VlD9eURNOj2xY-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=593%3A373547&show-proto-sidebar=1)
